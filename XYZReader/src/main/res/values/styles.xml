@@ -26,7 +26,7 @@
         <item name="android:divider">@color/divider</item>
     </style>
 
-    <style name="Theme.Bacon.Detail">
+    <style name="Theme.Bacon.Detail" parent="Theme.Bacon">
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
 
